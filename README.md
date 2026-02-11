@@ -12,7 +12,7 @@
 ### 📫 Reach Me
 
 - 📧 Email: **kobitharsan@gmail.com**
-- 💼 [LinkedIn](www.linkedin.com/in/kobitharsan-thevapalan-5273132a3)
+- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/kobitharsan-thevapalan-5273132a3)
 
 ---
 
