@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kobitharsan</h1>
-<h3 align="center">A passionate UI/UX Designer & Full Stack Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Full Stack Developer & UI/UX Designer from Sri Lanka 🇱🇰</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Information Technology Undergraduate** at **SLIIT Northern University** 
-- 🎨 **UI/UX Designer** passionate about crafting intuitive, user-centered digital experiences  
-- 💻 **Full-Stack Developer** with hands-on experience building scalable web and mobile applications  
-- 🔍 **Actively seeking internship opportunities** in **UI/UX or Full-Stack** 
+- 🎓 **Information Technology Undergraduate** at **SLIIT Northern University**
+- 💻 **Full-Stack Developer** with hands-on experience building scalable web and mobile applications
+- 🎨 **UI/UX Designer** passionate about crafting intuitive, user-centered digital experiences    
+- 🔍 **Actively seeking internship opportunities** in **Full-Stack or UI/UX** 
 - 📍 Based in **Jaffna, Sri Lanka**  
 - ⚡ Fast learner, detail-oriented, and driven to design impactful products
 
