@@ -24,7 +24,7 @@
 
 - 📧 Email: **kobitharsan@gmail.com**
 - 💼 [LinkedIn](www.linkedin.com/in/kobitharsan-thevapalan-5273132a3)
-- 📄 [View My CV]([https://drive.google.com/file/d/1l3s1f16xSpIASb03g7wapxBxX12U0Tx3/view?usp=drive_link](https://drive.google.com/file/d/1D1ChsOqQx1LfVDhxS-NA-DXCJKfVMhEC/view?usp=drive_link)) 
+- 📄 [View My CV](https://drive.google.com/file/d/1D1ChsOqQx1LfVDhxS-NA-DXCJKfVMhEC/view?usp=drive_link)
 
 ---
 
